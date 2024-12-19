@@ -11,10 +11,10 @@
     "Welcome": {
         "Active": true,
         "Tokens": [
-           "MTMwODQyOTY4OTUzODQ4MjE5Ng.GLUUj0.4evYNKwVAlAnah-nDBtd9OV07Z6KyJHOPPMIzY",
-           "MTMwODQzMDMyMzM4OTgyNTA1NQ.GLoezw.nI1Sev38WcMzg3hlUC6dPcqJLPi6_vN2Ov3i5k",
-           "MTMwODQzMDYxNjE1NjU3Mzc3Nw.GgK7hD.H11_ckFkq2oOO-p7x1CWODojpraUyexkIH_1hg",
-           "MTMwODQzMDc1NjE2NjYzMTQzNg.Gn9cm-.vrlj5GxKpr_rzNjA3DXlGoVzIuHLsARxWOYl0w"
+           "",
+           "",
+           "",
+           ""
         ],
         "Channels": [
            "1309940341318881360",
@@ -25,9 +25,9 @@
     },
 
     "Main": {
-        "ModerationToken": "MTMwODQzMjUwMDgyMDgwNzc4Mg.GT22fn.QcEbDNvyDfAQPEBN_ssYcrGuKm2XtL21U-H_y8",
-        "RegisterToken": "MTMwODQzMjY3NjM4NjExMTQ5OQ.GsxA81.gPnhZUl8h13qY4LqpZUPp-r-oHIRh3mrpdNoIs",
-        "StatsToken": "MTMwODQzNDQzMDk0NzQ5MTg4MQ.Ge8Xob.DpEjSNjPB1NFgluMLCp6-gmlbZN6P0by__G1Vo",
+        "ModerationToken": "",
+        "RegisterToken": "",
+        "StatsToken": "",
 
         "prefix": [
             ".",
@@ -56,18 +56,18 @@
         "chatmutelimit": 3,
         "voicemutelimit": 3
     },
-    "UrlGuardToken": "MTMwOTQ0MDYzNjkxNDYzNDc1Mg.G_xVpc.ehUnl6MxmwEzlBRvg8-_YkoDWTaV8OL4__ZSvA",
+    "UrlGuardToken": "",
 
     "Guard": {
         "Token": {
-            "Guard_I": "MTMwODcxNTc0Njg5Mjk3NjE0OQ.G1JNEc.33zvpk8O4946cWwlOVeky0SRPEE0EHBxElfNdc",
-            "Guard_II": "MTMwODQzNTA2NTQxOTU5NTg1Nw.GSrLMK.JtelenSgAYO9O3QfTf0aXlbnSc1S-s1McbA4A8",
-            "Guard_III": "MTMwODQzNTQyMDE0NDYwMzI1Ng.G_D4x8.0-megYnwU-YlmscsvdSOetaMA38bwMnpgYq5oU",
-
-            "TaçHesapToken": "MTMwOTQ0MTI1NTgzODcxMTg0OQ.G8k7Z8.3wpvGWI2YDJ_3UD3lZmlxboGW-RycU_958WHW4",
+            "Guard_I": "",
+            "Guard_II": "",
+            "Guard_III": ""
+            
+            "TaçHesapToken": "",
 
             "Dağıtıcı": [
-                "MTMwODQ2NTk0NjIwOTQyMzQ4Mg.G-3LpP.dJyNC3SEYKAhiT5FL1QvM36zSeT6gRGBxW3WlA"
+                ""
             ]
         },
 
@@ -88,10 +88,9 @@
             "GiveRoleDelay": 500
         },
 
-        "kufurEngel": false,
-        "spamEngel": false,
-        "capsEngel": false,
-        "reklamEngel": false
-
+        "kufurEngel": true,
+        "spamEngel": true,
+        "capsEngel": true,
+        "reklamEngel": true
     }
 }
